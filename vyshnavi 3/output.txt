@@ -1,0 +1,66 @@
+
+---
+
+# 4. `output.txt`
+
+Create **`output.txt`** and put the sample output inside:
+
+```text
+==================================================
+             SIMPLE QUIZ APPLICATION
+==================================================
+
+There are 5 questions.
+Enter A, B, C, or D for each question.
+
+--------------------------------------------------
+Question 1: What is the capital of India?
+A. Mumbai
+B. Delhi
+C. Chennai
+D. Kolkata
+Your answer: B
+
+--------------------------------------------------
+Question 2: Which language is used to create this application?
+A. Java
+B. C++
+C. Python
+D. HTML
+Your answer: C
+
+--------------------------------------------------
+Question 3: How many days are there in a week?
+A. 5
+B. 6
+C. 7
+D. 8
+Your answer: C
+
+--------------------------------------------------
+Question 4: Which planet is known as the Red Planet?
+A. Earth
+B. Mars
+C. Jupiter
+D. Venus
+Your answer: B
+
+--------------------------------------------------
+Question 5: What is 10 + 5?
+A. 12
+B. 13
+C. 14
+D. 15
+Your answer: D
+
+==================================================
+                 QUIZ RESULT
+==================================================
+Correct Answers : 5
+Wrong Answers   : 0
+Total Questions : 5
+Score           : 100.00%
+Result          : Excellent!
+==================================================
+
+Thank you for playing!
